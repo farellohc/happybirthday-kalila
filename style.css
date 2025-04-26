@@ -58,7 +58,7 @@ img.birthday {
 .text {
   padding: 1em;
   color: #333; /* Adjusted text color */
-  font-size: 3vw; /* Using vw for responsive text */
+  font-size: 2.5vw; /* Using vw for responsive text */
   line-height: 1.6; /* Improved readability */
 }
 
